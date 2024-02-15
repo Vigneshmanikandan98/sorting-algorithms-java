@@ -13,5 +13,5 @@ Implemented sorting algorithms:
 Used filed handling to read the text files and System.nanoTime to calculate the time taken by the algorithm.
 
 This is one of the assignment given by the professor.
-Subject Name: Design and Analysis of Algorithms 
-University: University of Texas at Arlington.
+Subject Name: Design and Analysis of Algorithms - Spring 2022
+University of Texas at Arlington.
